@@ -6,11 +6,11 @@ public class Author {
         this.name = name;
         this.name2 = name2;
     }
-public String getName() {
+    public String getName() {
         return this.name;
-}
-public String getName2() {
-    return this.name2;
-}
+    }
+    public String getName2() {
+        return this.name2;
+    }
 }
 
