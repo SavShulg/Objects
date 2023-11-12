@@ -14,8 +14,11 @@ public class Main {
         System.out.println(voinaImir.getTitle() + "-" + lev.getLastName() +
                 "-" + voinaImir.getYear());
 
+        System.out.println(buratino);
         buratino.setYear(1788);
         System.out.println(buratino.getYear());
+
+
 
     }
 }
